@@ -21,12 +21,6 @@ A personal portfolio website built with HTML, CSS, and JavaScript. This project 
 1. Open `index.html` directly in a browser.
 2. Or serve the folder using a local web server.
 
-Example:
-```bash
-git clone <repo-url>
-cd Anurag12
-python -m http.server 8000
-```
 Then open `http://localhost:8000`.
 
 ## Customize
