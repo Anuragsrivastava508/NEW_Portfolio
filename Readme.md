@@ -8,7 +8,7 @@ A personal portfolio website built with HTML, CSS, and JavaScript. This project 
 - `style.css` — styling, layout, color theme, animations
 - `javascript.js` — interactive cursor and page behavior
 - `README.md` — project documentation
-- `redme.md` — placeholder file
+
 
 ## Features
 - Responsive design for desktop and mobile
